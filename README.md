@@ -1,0 +1,2 @@
+# White_Jotter
+一个基于SpringBoot和Vue的前后端分离开发的有图书管理和管理读书笔记功能的系统
